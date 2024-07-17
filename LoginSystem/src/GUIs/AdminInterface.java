@@ -18,11 +18,6 @@ import javax.swing.SwingConstants;
 import javax.swing.table.DefaultTableModel;
 
 import Constants.MyConstants;
-// import db.MYJDBC;
-
-// import Constants.MyConstants;
-
-// import Constants.MyConstants;
 
 public class AdminInterface extends JFrame {
 
